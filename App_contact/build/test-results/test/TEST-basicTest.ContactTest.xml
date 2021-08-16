@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="basicTest.ContactTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-08-16T01:15:37" hostname="DESKTOP-N4GNA79" time="33.087">
+  <properties/>
+  <testcase name="createContact()" classname="basicTest.ContactTest" time="33.087"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[ago. 15, 2021 9:15:54 P. M. io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>

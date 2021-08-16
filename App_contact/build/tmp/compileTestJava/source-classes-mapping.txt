@@ -1,0 +1,32 @@
+factoryDevices/IDevice.java
+ factoryDevices.IDevice
+activities/MainPage.java
+ activities.MainPage
+activities/InfoContactPage.java
+ activities.InfoContactPage
+basicTest/ContactTest.java
+ basicTest.ContactTest
+factoryDevices/BrowserStack.java
+ factoryDevices.BrowserStack
+factoryDevices/IOS.java
+ factoryDevices.IOS
+session/Session.java
+ session.Session
+factoryDevices/FactoryDevice.java
+ factoryDevices.FactoryDevice
+ factoryDevices.FactoryDevice$1
+ factoryDevices.FactoryDevice$DeviceType
+factoryDevices/Android.java
+ factoryDevices.Android
+controlAppium/Control.java
+ controlAppium.Control
+controlAppium/Label.java
+ controlAppium.Label
+controlAppium/Button.java
+ controlAppium.Button
+factoryDevices/WindowPhone.java
+ factoryDevices.WindowPhone
+activities/CreatedContactPage.java
+ activities.CreatedContactPage
+controlAppium/TextBox.java
+ controlAppium.TextBox
